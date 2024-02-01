@@ -15,4 +15,4 @@
 
 3.  USE TAILWIND CSS FOR THE DESIGN.
 
-4.  - Happy Hacking! -
+Happy Hacking!
